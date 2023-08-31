@@ -1,0 +1,15 @@
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\bin\Debug\net6.0\First and very important project.exe
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\bin\Debug\net6.0\First and very important project.deps.json
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\bin\Debug\net6.0\First and very important project.runtimeconfig.json
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\bin\Debug\net6.0\First and very important project.dll
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\bin\Debug\net6.0\First and very important project.pdb
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.csproj.AssemblyReference.cache
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.AssemblyInfoInputs.cache
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.AssemblyInfo.cs
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.csproj.CoreCompileInputs.cache
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.dll
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\refint\First and very important project.dll
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.pdb
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\First and very important project.genruntimeconfig.cache
+E:\Projects\beetroot\MySecondRepo\First and very important project\First and very important project\obj\Debug\net6.0\ref\First and very important project.dll
